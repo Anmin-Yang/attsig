@@ -14,11 +14,11 @@ The code is written on **Python 3.8.13**. For dependencies, please refer to [req
 
 ### Functions 
 
-For the functions utilized in the analysis, please refer to [algo.py](algo,py).
+For the functions utilized in the analysis, please refer to [algo.py](algo.py).
 
 ### Main Results
 
-- [Behavioral Results and Model Performance](performance_evaluation)
+- [Behavioral Results and Model Performance](performance_evaluateion)
 - [Whole-brain and Network-level Analysis](whole-brain-network_level)
 - [Cluster-level and Voxel-levle Analysis](cluster-voxel_level)
 
