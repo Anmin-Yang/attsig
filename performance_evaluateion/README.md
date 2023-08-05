@@ -19,7 +19,7 @@ This file contains codes responsible for the analysis in **Fig 2.**
 
 - [3.0_SVC_prediction.py](3.0_SVC_prediction.py)
   - Apply Support Vector Classification to both FA and SA 
-- [4.0_model_evaluation_bootstrap.py](4.0_model_evaluation_bootstrap)
+- [4.0_model_evaluation_bootstrap.py](4.0_model_evaluation_bootstrap.py)
   - Bootstrap over 10,000 times to construct the confidence interval for metrics of model performance 
 - [4.1_model_evaluation_ttest.py](4.1_model_evaluation_ttest.py)
   - Statistical inference for model performance 
