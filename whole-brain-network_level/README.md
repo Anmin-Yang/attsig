@@ -8,4 +8,4 @@ This file contains codes responsible for the analysis in **Fig 3** and relevant 
   - Bootstrap over 1,000 times to reconstruct the confidence interval for every voxel 
 
 - [2.0_fa_bootstrap_significance.py](2.0_fa_bootstrap_significance.py) [2.0_sa_bootstrap_significance.py](2.0_sa_bootstrap_significance.py)
-  - FAS and SAS were determined as the significant voxels that passed FDR correction with $q<0.05$ based on the bootstraped distribution
+  - FAS and SAS were determined as the significant voxels that passed multi-comparison correction based on the bootstraped distribution
