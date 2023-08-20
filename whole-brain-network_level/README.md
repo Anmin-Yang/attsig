@@ -14,3 +14,5 @@ This file contains codes responsible for the analysis in **Fig 3** and relevant 
   - Network-level analysis with matched voxel size based on Yeo's atlas 
 - [4.0_univariate_analysis.py](4.0_univariate_analysis.py) 
   - Univariate analysis of the FAS and the SAS, significant voxels threholded with Cohen's d 
+- [5.0_yeo_network.py](5.0_yeo_network.py)
+  - The intensity of the predictive voxels in the FAS and SAS defined by Yeo's network 
